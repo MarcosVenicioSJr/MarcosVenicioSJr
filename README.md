@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hello, I'm Marcos Venicio! 👋
 
-<!--
-**MarcosVenicioSJr/MarcosVenicioSJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Working with the Backend
+- 🌱 Studying C# and Typescript
 
-Here are some ideas to get you started:
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+ <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosVenicioSJr&layout=compact&langs_count=16&theme=dracula"/>
+</div>
+
+![Snake animation](https://github.com/MarcosVenicioSJr/blob/output/github-contribuition-grid-snake.svg)
